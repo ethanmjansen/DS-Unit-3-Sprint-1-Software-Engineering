@@ -266,7 +266,18 @@ career here, you'll have to answer the following:
   slightly different things running on all of them. How could containers help us
   improve this situation?
 
-Answer both of these questions (baseline ~5 sentences) here in text.
+First question: An important part of code review is that you either get help or 
+give help when the review is in process. It can build team strength to peer review and it ensures
+quality and reproducibility. I pay attention to PEP8 style when I am reviewing code because that is
+the most import part of review. I appreciate when others review my code honestly and 
+efficiently. Code review is extremely important for the big picture, working in teams, QA testing, 
+etc.  
+
+Second question: First of all, I love containers, I think they are great for product deployment. 
+Secondly it's important that a script runs in all different types of environments as it was meant 
+to be run. Containers make it easy to ship and open images which is a vital part of the devops process. 
+Programs like Docker are good for large teams who work across different operating systems and are language agnostic. Understanding the importance of containers in the work flow is essential for quick 
+deployment of software.  
 
 ### Part 8 - Turn it in!
 
